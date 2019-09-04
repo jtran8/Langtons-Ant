@@ -1,2 +1,2 @@
 # Langtons-Ant
-CLI Langton’s Ant Simulation
+CLI simulation of Langton’s Ant
